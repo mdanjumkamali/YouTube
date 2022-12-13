@@ -1,0 +1,95 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Poppins',sans-serif;
+}
+
+/* Box */
+
+.box {
+    margin-top: 10%;
+    width: 60%;
+    height: 400px;
+    background: #414141;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 20px;
+}
+
+.left {
+    background: #ffff;
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+    margin-left: 5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.left img {
+    width: 280px;
+    rotate: 30deg;
+    margin-left: 15%;
+}
+
+.right {
+    margin-right: 10%;
+}
+
+.right h1 {
+    font-size: 50px;
+    color: #fff;
+    line-height: 1.5;
+    font-weight: 800;
+}
+
+.checked {
+    color: #eb5763;
+}
+
+.right p {
+    font-size: 20px;
+    color: #fff;
+    line-height: 1.5;
+    letter-spacing: 0.5px;
+}
+
+.price {
+    margin-top: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.price h2 {
+    font-size: 30px;
+    color: #fff;
+    line-height: 1.5;
+    font-weight: 800;
+}
+
+.btn {
+    text-decoration: none;
+    color: #fff;
+    padding: 12px 24px;
+    background: #eb5763;
+    border-radius: 8px;
+}
+
+.btn:hover {
+    background: #fff;
+    color: #333;
+}

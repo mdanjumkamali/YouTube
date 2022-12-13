@@ -1,0 +1,22 @@
+Fonts
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+color 
+#414141
+#eb5763
+
+Icons
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star"></span>
+
+Headind 
+Air Jordan
+
+Paragraph
+The Air Jordan Shoe is inspired <br> 
+by the first AJ1,offering fans of Jordan <br>
+retros a chance to follow.
