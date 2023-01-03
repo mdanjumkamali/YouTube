@@ -1,0 +1,20 @@
+Fonts 
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+font-family: 'Poppins', sans-serif;
+
+Icons
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+
+<i class="fa-solid fa-magnifying-glass" id="icon"></i>
+<i class="fa-solid fa-heart"></i>
+<i class="fa-solid fa-cart-shopping"></i>
+
+
+Typography
+
+Heading - Air Jordan 1 Mid SE
+Text1 - Men's Shoes
+Text2 - MRP : $199.99<br>incl. of taxes<br>(Also includes all applicable duties)
+Text3 - Get that Jordan energy on your feet this festive season.
+        <br>Rich grain leather with bright details make this pair shine<br> 
+        like festive lights.
